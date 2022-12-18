@@ -1,5 +1,6 @@
 package com.basics.java;
 
-public class RealTimeObject {
+public class RealTimeObject 
+{
 
 }
