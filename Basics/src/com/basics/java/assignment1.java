@@ -23,7 +23,9 @@ public class assignment1 {
 	
 	int n;
 	n=23617;
-	System.out.println("second last digit of "+n" "is:"+"((n/10)%10));
+	System.out.println("second last digit of " + n + " is " +((n/10)%10));
+	
+	
 	}
 
 }
