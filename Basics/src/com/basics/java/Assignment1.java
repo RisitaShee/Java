@@ -24,6 +24,15 @@ public class Assignment1 {
 		int n;
 		n = 23617;
 		System.out.println("second last digit of " + n + " is " + ((n / 10) % 10));
+		
+		int j=4270;
+		int l=543;
+		
+		int f=j%10;
+		int e=l%10;
+		j=j*10+e;
+		l=l*10+f;
+		System.out.println(j+ " "+l+" "+j*l);
 
 	}
 
