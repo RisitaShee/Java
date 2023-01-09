@@ -29,6 +29,15 @@ public class Test1 {
 			} else {
 				System.out.println("odd");
 			}
+			char ch='u';
+			if (ch== 'a'||ch=='e' || ch== 'i'|| ch=='o'|| ch=='u') {
+				System.out.println("vowel");
+			} else {
+				System.out.println("consonent");
+			}
+			
+			
+			
 			
 		}
 
