@@ -1,10 +1,10 @@
 package com.basics.java;
 
-public class Test1 {
+public class Test5 {
 	public static void main(String[] args) {
 		
 		int x = 20;
-		if (x >7) {
+		if (x >400) {
 			System.out.println("hi");
 		}
 
