@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	int j;
 	j=7+5;
 	j+=10;
-	System.out.println("the value of x is :" + j);
+	System.out.println("the value of j is :" + j);
 	
 	int y;
 	y= 7+5;
